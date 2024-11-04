@@ -1,0 +1,45 @@
+.container{
+    background-origin: padding-box;
+    border: 3px solid #706565;
+    margin:30px;
+    margin-left: 8%;
+   display: flex;
+   width: 80%;
+  background-color: rgb(59, 180, 139);
+  
+   
+
+}
+
+.divbutton{
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.divbutton button{
+    background-color: aqua;
+    padding: 10px;
+}
+.detailcontainer{
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   flex-direction: column;
+   width: 90%;
+   height: 90%
+   
+}
+.name{
+    font-size: 50px;
+    background-color: rgb(167, 35, 114);
+    color:black;
+    align-items: center;
+    margin: 5px
+
+
+}
+.detailcontainer p{
+  
+    margin-left: 10px;
+}

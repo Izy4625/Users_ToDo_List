@@ -1,0 +1,28 @@
+.item{
+    text-decoration: none;
+    width: 90%;
+    min-height: 60px;
+   margin: 10px;
+   padding: 10px;
+   align-items: center;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    color: rgba(0, 0, 0, 0.728);
+    align-content: center;
+ 
+}
+.item p{
+    font-family: 'Courier New', Courier, monospace;
+    height: 20%;
+    width: 10%
+}
+
+.item:hover {text-decoration: underline; color: aqua;}
+.container{
+    margin-top: 10px;
+    margin-left: 30%;
+    border: 2px solid #b7b0b0;
+    margin-right: 30%;
+    padding: 10px;
+    
+    
+}
